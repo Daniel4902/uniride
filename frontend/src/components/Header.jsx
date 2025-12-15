@@ -5,8 +5,8 @@ const Header = () => {
         <header>
             <nav>
                 <a href="#" className="logo">
-                    <div className="logo-icon">🎓</div>
-                    <div className="logo-text">Uni<span>Ride</span></div>
+                    {/*<div className="logo-icon">🎓</div>*/}
+                    <div className="logo-text">Uni<span>Ri</span>de</div>
                 </a>
                 <div className="nav-actions">
                     <button className="btn btn-ghost">Prijava</button>
